@@ -15,3 +15,5 @@ features.csv, stores.csv, test.csv, train.csv - datasets for the machine learnin
 Optimized Warehouse Management of Perishable Goods for a Food Delivery Company.pptx - powerpoint presentation of the project
 
 Project_demo_video-url.txt - contains the youtube url for the project demonstration video
+
+Project UI url: https://node-red-nywmy.eu-gb.mybluemix.net/ui/#!/5?socketid=e4vBiTHQHOJgIzU4AAA8
